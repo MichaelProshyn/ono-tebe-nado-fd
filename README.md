@@ -1,1 +1,1 @@
-https://github.com/MichaelProshyn/ono-tebe-nado-fd.git
+https://github.com/MichaelProshyn/ono-tebe-nado-fd
